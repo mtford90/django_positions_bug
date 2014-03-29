@@ -1,4 +1,6 @@
-The error is as follows: 
+This project should work out of the box as it uses sqllite.
+
+Executing the test generates the following error:
 
 ```
 $ ./manage.py test
